@@ -42,8 +42,6 @@ The dataset used is the **Superstore Sales Data** (`Sample - Superstore.csv`). I
 - Sales, Quantity, Discount, Profit
 - Customer Segments and Product Categories
 
-> 📦 *Note: Ensure the dataset file is placed in the working directory of the notebook.*
-
 ---
 
 ## 📊 Output Snapshots
@@ -81,9 +79,3 @@ AI and Data Science Student
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 ⭐ If you found this project helpful, give it a star!
-
-Let me know if you want this version customized to:
-- Your **actual GitHub username**
-- Replace links/emails
-- Include visuals from your notebook as image links
-- Add sections for **deployment**, **dashboard**, or **API**
